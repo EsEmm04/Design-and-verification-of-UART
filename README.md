@@ -6,3 +6,5 @@ Designed RTL modules of UART transmitter and receiver in Verilog HDL with 8-bit 
 Implemented a SystemVerilog-based testbench with driver, environment, generator, and interface components, utilizing constrained random test cases to effectively validate the UART functionality.
 
 Design and testing folder contains all the files used for design of UART the screensort attached shows transmitted and received data.
+
+Verification of UART folder has all the necessary system verilog based verification files and screensort of results.
